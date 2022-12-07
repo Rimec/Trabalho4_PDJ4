@@ -23,8 +23,8 @@ namespace Workshop
             Console.WriteLine($"Adding Processor: {processor}");
             Console.WriteLine($"Adding Thermal Paste");
             Console.WriteLine($"Adding Cooler: {cooler}");
-            Console.WriteLine($"Adding Memory: {memory} GB");
-            Console.WriteLine($"Positioning PSU of {psu_wats} w");
+            Console.WriteLine($"Adding Memory: {memory}GB");
+            Console.WriteLine($"Positioning PSU of {psu_wats}w");
             Console.WriteLine($"Plugin PSU Pines");
         }
 
@@ -40,8 +40,8 @@ namespace Workshop
             Console.WriteLine($"Adding Processor: {processor}");
             Console.WriteLine($"Adding Thermal Paste");
             Console.WriteLine($"Adding Cooler: {cooler}");
-            Console.WriteLine($"Adding Memory: {memory} GB");
-            Console.WriteLine($"Positioning PSU of {psu_wats} w");
+            Console.WriteLine($"Adding Memory: {memory}GB");
+            Console.WriteLine($"Positioning PSU of {psu_wats}w");
             Console.WriteLine($"Plugin PSU Pines");
         }
 
