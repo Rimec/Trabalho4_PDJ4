@@ -1,11 +1,11 @@
 namespace Pizzeria
 {
     public abstract class Pizza{
-        protected string sauce;
+        protected string sauce = "";
         public string Sauce {get {return sauce;} set{sauce = value;}}
-        protected string toppings;
+        protected string toppings = "";
         public string Toppings {get {return toppings;} set{toppings = value;}}
-        protected string crust;
+        protected string crust = "";
         public string Crust {get {return crust;} set{crust = value;}}
 
         public abstract void Assemble();

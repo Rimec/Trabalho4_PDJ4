@@ -1,9 +1,9 @@
 namespace Workshop
 {
     public abstract class MotherBoard{
-        protected string processor;
+        protected string processor = "";
         public string Processor {get {return processor;} set{processor = value;}}
-        protected string cooler;
+        protected string cooler = "";
         public string Cooler {get {return cooler;} set{cooler = value;}}
         protected int memory;
         public int Memory {get {return memory;} set{memory = value;}}
@@ -58,14 +58,14 @@ namespace Workshop
         }
         
         public abstract void AddProcessor();
-        public abstract void AddColler();
+        public abstract void AddCooler();
         public abstract void AddMemory();
         public abstract void AddPSU();
         public abstract void CountFPS();
 
         public void Mount(){
             AddProcessor();
-            AddColler();
+            AddCooler();
             AddMemory();
             AddPSU();
             CountFPS();
@@ -83,7 +83,7 @@ namespace Workshop
         {
             motherBoard.Processor = "Intel";
         }
-        public override void AddColler()
+        public override void AddCooler()
         {
             motherBoard.Cooler = "Cooler Box";
         }
@@ -107,7 +107,7 @@ namespace Workshop
         {
             motherBoard.Processor = "AMD";
         }
-        public override void AddColler()
+        public override void AddCooler()
         {
             motherBoard.Cooler = "Cooler Box";
         }
