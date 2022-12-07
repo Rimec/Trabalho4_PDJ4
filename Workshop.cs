@@ -71,7 +71,7 @@ namespace Workshop
             CountFPS();
             motherBoard.Assemble();
             motherBoard.WorkBench();
-            Console.WriteLine($"Order in Progress!");
+            Console.WriteLine($"Thank You!");
             Console.WriteLine();
         }
     }
