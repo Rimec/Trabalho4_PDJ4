@@ -1,0 +1,15 @@
+D:\Renan\PUC\PDJ IIII\Trabalho4\bin\Debug\net6.0\Trabalho4.exe
+D:\Renan\PUC\PDJ IIII\Trabalho4\bin\Debug\net6.0\Trabalho4.deps.json
+D:\Renan\PUC\PDJ IIII\Trabalho4\bin\Debug\net6.0\Trabalho4.runtimeconfig.json
+D:\Renan\PUC\PDJ IIII\Trabalho4\bin\Debug\net6.0\Trabalho4.dll
+D:\Renan\PUC\PDJ IIII\Trabalho4\bin\Debug\net6.0\Trabalho4.pdb
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.csproj.AssemblyReference.cache
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.AssemblyInfoInputs.cache
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.AssemblyInfo.cs
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.csproj.CoreCompileInputs.cache
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.dll
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\refint\Trabalho4.dll
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.pdb
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\Trabalho4.genruntimeconfig.cache
+D:\Renan\PUC\PDJ IIII\Trabalho4\obj\Debug\net6.0\ref\Trabalho4.dll
