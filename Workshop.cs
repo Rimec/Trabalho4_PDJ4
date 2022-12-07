@@ -50,10 +50,10 @@ namespace Workshop
         }
     }
 
-    public abstract class Workshop
+    public abstract class CPU
     {
         protected MotherBoard motherBoard;
-        protected Workshop(MotherBoard motherBoard){
+        protected CPU(MotherBoard motherBoard){
             this.motherBoard = motherBoard;
         }
         
@@ -76,7 +76,7 @@ namespace Workshop
         }
     }
 
-    public class CPUIntel : Workshop {
+    public class CPUIntel : CPU {
         public CPUIntel(MotherBoard motherBoard) : base(motherBoard){}
 
         public override void AddProcessor()
@@ -100,7 +100,7 @@ namespace Workshop
             motherBoard.Fps = 90;
         }
     }
-    public class CPUAMD : Workshop {
+    public class CPUAMD : CPU {
         public CPUAMD(MotherBoard motherBoard) : base(motherBoard){}
 
         public override void AddProcessor()
